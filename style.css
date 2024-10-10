@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    height: 120px;
+    background-color: aqua;
+    text-align: center;
+}
+
+.sidebar {
+    width: 300px;
+    height: 400px;
+    background-color: blue;
+    float: left;
+    text-align: center;
+}
+
+.content {
+    height: 400px;
+    background-color: orange;
+    text-align: center;
+}
+
+.footer {
+    height: 70px;
+    background-color: green;
+    text-align: center;
+}
